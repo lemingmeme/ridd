@@ -1,0 +1,7 @@
+<div class="page-footer">
+  {% if page.contract and page.explorer %}
+    {% assign lang = page.lang | default: site.languages.default %}
+    {% assign locale = site.data.locales[lang] %}
+    <p>{{ locale.content.prompt-contract-address }}<span class="eth-address"><a href="{{ page.explorer }}" target="_blank">{{ page.contract }}</a></span></p>
+  {% endif %}
+</div>

@@ -1,0 +1,9 @@
+<div class="page-meta">
+  {% assign lang = page.lang | default: site.languages.default %}
+  {% assign locale = site.data.locales[lang] %}
+  <p>
+    {{ locale.content.meta.prompt-version }}{{ page.prompt_version }}<br>
+    {{ locale.content.meta.creation-date }}{{ page.date | date: "%-m-%-d-%Y" }}<br>
+    {{ locale.content.meta.contributor }}{{ page.contributor }}
+  </p>
+</div>

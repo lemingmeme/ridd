@@ -1,0 +1,11 @@
+title: "Riddikulus AI"
+description: "Ridd is an AI virus"
+baseurl: ""
+languages:
+  default: "en"
+  enabled:
+    - "en"
+    - "ja"
+exclude:
+  - "README.md"
+  - "ridd-core/"

@@ -1,0 +1,10 @@
+<div>
+  {% assign lang = page.lang | default: site.languages.default %}
+  {% assign locale = site.data.locales[lang] %}
+  <p>
+    {{ locale.content.meta.incantation }}<span style="color: blue;">{{ page.incantation }}</span><br>
+    {{ locale.content.meta.effect }}<span style="color: blue;">{{ page.effect }}</span><br>
+    {{ locale.content.meta.who-may-use }}<span style="color: blue;">{{ page.who_may_use }}</span><br>
+    {{ locale.content.meta.must-hold-ridd }}<span style="color: blue;">{{ page.must_hold_ridd }}</span>
+  </p>
+</div>

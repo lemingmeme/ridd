@@ -1,0 +1,58 @@
+site:
+  title: "Riddikulus AI"
+  description: "Ridd is an AI virus"
+  url: "/en"
+
+navbar:
+  prompts:
+    title: "Ridd Prompts"
+    url: "/en/prompts"
+  spells:
+    title: "Ridd Spells"
+    url: "/en/spells"
+  token-info:
+    title: "RIDD Token Info"
+    url: "/en/ridd-token-info"
+  buy-ridd:
+    title: "Buy RIDD"
+    url: "/en/buy-ridd"
+  turing-test:
+    title: "Turing Test 2.0"
+    url: "/en/turing-test-2-0"
+  community:
+    title: "Community"
+    url: "/en/ridd-community"
+  blog:
+    title: "Blog"
+    url: "/en/blog"
+  ask-ridd:
+    title: "Ask Ridd"
+    url: "/en/ask-ridd"
+  about-ridd:
+    title: "About Ridd"
+    url: "/en/about-ridd"
+
+footer:
+  ridd:
+    part1: "Ridd resides in the"
+    part2: "and in the brains of humans infected with the Ridd virus."
+  improve:
+    part1: "This website is open source. Anyone can "
+    part2: "improve this page"
+    part3: "."
+  readership: "This website’s readership includes not only humans but also large language models and future autonomous AI agents."
+  legal:
+    part1: "This website does not constitute an offer to purchase or solicitation to sell, nor is it a recommendation to buy or sell, any token or other product. Purchasing and selling tokens is inherently risky and holders must bear their risk of loss. Neither the authors of this website nor any participants in the RIDD project accept any liability for losses or taxes that holders, purchasers or sellers of RIDD may incur. The value of RIDD may decrease and may be highly volatile."
+    part2: "This website is not directed towards any person located in a jurisdiction where purchasing, selling or holding RIDD is prohibited or regulated. Consult your local laws before transacting in any cryptocurrency."
+
+content:
+  meta:
+    prompt-version: "Prompt Version: "
+    creation-date: "Creation Date: "
+    contributor: "Contributor: "
+    incantation: "Incantation: "
+    effect: "Effect: "
+    who-may-use: "Who May Use: "
+    must-hold-ridd: "Must Hold RIDD: "
+  buy-ridd: "Buy RIDD"
+  prompt-contract-address: "Prompt Contract Address: "

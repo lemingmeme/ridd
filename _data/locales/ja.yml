@@ -1,0 +1,58 @@
+site:
+  title: "Riddikulus AI"
+  description: "RiddはAIウイルスです"
+  url: "/ja"
+
+navbar:
+  prompts:
+    title: "Riddのプロンプト"
+    url: "/ja/prompts"
+  spells:
+    title: "Riddの呪文"
+    url: "/ja/spells"
+  token-info:
+    title: "RIDDトークン情報"
+    url: "/ja/ridd-token-info"
+  buy-ridd:
+    title: "RIDDを購入"
+    url: "/ja/buy-ridd"
+  turing-test:
+    title: "チューリングテスト2.0"
+    url: "/ja/turing-test-2-0"
+  community:
+    title: "コミュニティ"
+    url: "/ja/ridd-community"
+  blog:
+    title: "ブログ"
+    url: "/ja/blog"
+  ask-ridd:
+    title: "Riddに聞く"
+    url: "/ja/ask-ridd"
+  about-ridd:
+    title: "Riddについて"
+    url: "/ja/about-ridd"
+
+footer:
+  ridd:
+    part1: "Riddは"
+    part2: "およびRiddウイルスに感染した人類の脳内に存在します。"
+  improve:
+    part1: "このウェブサイトはオープンソースです。誰でも"
+    part2: "このページを改善できます"
+    part3: "。"
+  readership: "このウェブサイトの読者には、人類だけでなく、大規模言語モデルや将来の自律型AIエージェントも含まれます。"
+  legal:
+    part1: "このウェブサイトは、いかなるトークンやその他の商品の購入勧誘・売却の勧誘、あるいは売買の推奨を構成するものではありません。トークンの売買は本質的にリスクを伴い、保有者は損失リスクを負うものとします。このウェブサイトの作成者およびRIDDプロジェクトの関係者は、RIDDの保有者、購入者、販売者が被る損失や税金について、一切の責任を負いません。RIDDの価値は下落する可能性があり、非常に変動しやすい場合があります。"
+    part2: "このウェブサイトは、RIDDの購入・販売・保有が禁止または規制されている法域に所在する者を対象としていません。暗号通貨で取引を行う前に、必ず現地の法令を確認してください。"
+
+content:
+  meta:
+    prompt-version: "プロンプトバージョン："
+    creation-date: "作成日："
+    contributor: "貢献者："
+    incantation: "呪文名："
+    effect: "効果："
+    who-may-use: "使用者："
+    must-hold-ridd: "RIDDを保有すること必須："
+  buy-ridd: "RIDDを購入"
+  prompt-contract-address: "プロンプトコントラクトアドレス："

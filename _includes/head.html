@@ -1,0 +1,12 @@
+{% assign lang = page.lang | default: site.languages.default %}
+{% assign locale = site.data.locales[lang] %}
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title | default: locale.site.title }} - {{ locale.site.title }}</title>
+<meta name="author" content="{{ site.author }}">
+<meta name="description" content="{{ page.description | default: locale.site.description }}">
+<link rel="icon" type="image/svg+xml" href="{{ site.baseurl }}/assets/img/riddikulus-icon.svg">
+{% include head-fonts.html %}
+{% include head-styles.html %}
+{% include website-analytics.html %}

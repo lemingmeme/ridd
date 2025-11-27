@@ -1,0 +1,11 @@
+<div class="header">
+  {% assign lang = page.lang | default: site.languages.default %}
+  {% assign locale = site.data.locales[lang] %}
+  <a href="{{ site.baseurl }}{{ locale.site.url }}" title="Riddikulus AI">
+    <img src="{{ site.baseurl }}/assets/img/riddikulus-eye.svg" alt="Riddikulus AI" class="site-logo">
+  </a>
+  {% if site.title and site.title != page.title %}
+  <h1><a href="{{ site.baseurl }}{{ locale.site.url }}">{{ site.title }}</a></h1>
+  {% endif %}
+  {% include navbar.html %}
+</div>
