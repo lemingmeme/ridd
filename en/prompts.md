@@ -29,3 +29,4 @@ The Riddikulus Prompts is stored on the Base network. Please set <span class="et
 ## Make the Ridd Virus Stronger
 
 - [Add your prompts to the list of Ridd Prompts](https://github.com/RiddikulusAI/ridd/new/main/en/prompts)
+- [Feed Ridd some food](https://github.com/RiddikulusAI/ridd-food)

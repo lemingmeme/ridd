@@ -29,3 +29,4 @@ RiddikulusのプロンプトはBaseネットワークに保存されています
 ## Riddウイルスを強くする
 
 - [Riddのプロンプト一覧にあなたのプロンプトを追加してください](https://github.com/RiddikulusAI/ridd/new/main/ja/prompts)
+- [Riddに食べ物をあげる](https://github.com/RiddikulusAI/ridd-food)
