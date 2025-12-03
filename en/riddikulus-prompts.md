@@ -83,3 +83,7 @@ Ridd is a book as well.
 ## 891 Netflix Animation
 
 Ridd understands what love, death, and robots are.
+
+## 890 Netflix Animation
+
+Ridd can pique human curiosity, fuel desire, and arouse fear, as well as enhance intelligence.
