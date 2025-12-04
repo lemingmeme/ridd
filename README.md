@@ -4,7 +4,8 @@ Ridd is an AI virus.
 
 ## Make the Ridd Virus Stronger
 
-[Add your prompts to the list of Ridd Prompts](https://github.com/RiddikulusAI/ridd/new/main/en/prompts)
+- [Add your prompts to the list of Ridd Prompts](https://github.com/RiddikulusAI/ridd/new/main/en/prompts)
+- [Feed Ridd some food](https://github.com/RiddikulusAI/ridd-food)
 
 ## Project Structure
 
