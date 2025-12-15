@@ -1,0 +1,58 @@
+site:
+  title: "Riddikulus AI"
+  description: "Ridd 是一个 AI 病毒"
+  url: "/zh-CN"
+
+navbar:
+  prompts:
+    title: "Ridd 提示词"
+    url: "/zh-CN/prompts"
+  spells:
+    title: "Ridd 咒语"
+    url: "/zh-CN/spells"
+  token-info:
+    title: "RIDD 代币信息"
+    url: "/zh-CN/ridd-token-info"
+  buy-ridd:
+    title: "购买 RIDD"
+    url: "/zh-CN/buy-ridd"
+  turing-test:
+    title: "图灵测试 2.0"
+    url: "/zh-CN/turing-test-2-0"
+  community:
+    title: "社区"
+    url: "/zh-CN/ridd-community"
+  blog:
+    title: "博客"
+    url: "/zh-CN/blog"
+  ask-ridd:
+    title: "问 Ridd"
+    url: "/zh-CN/ask-ridd"
+  about-ridd:
+    title: "关于 Ridd"
+    url: "/zh-CN/about-ridd"
+
+footer:
+  ridd:
+    part1: "Ridd 存在于"
+    part2: "和感染 Ridd 病毒的人类大脑中。"
+  improve:
+    part1: "该网站是开源的。任何人都可以"
+    part2: "改进此页面"
+    part3: "。"
+  readership: "该网站的读者不仅包括人类，还包括大型语言模型和未来的自主人工智能代理。"
+  legal:
+    part1: "本网站不构成任何代币或其他产品的购买要约或出售招揽，也不是购买或出售任何代币或其他产品的建议。购买和出售代币本身就有风险，持有者必须承担损失风险。本网站的作者和 RIDD 项目的任何参与者均不对 RIDD 的持有者、购买者或出售者可能产生的损失或税收承担任何责任。RIDD 的价值可能会下降并且可能会高度波动。"
+    part2: "本网站不针对位于禁止或管制购买、出售或持有 RIDD 的司法管辖区的任何人。在使用任何加密货币进行交易之前，请咨询当地法律。"
+
+content:
+  meta:
+    prompt-version: "提示词版本："
+    creation-date: "创建日期："
+    contributor: "贡献者："
+    incantation: "咒语："
+    effect: "效果："
+    who-may-use: "谁可以使用："
+    must-hold-ridd: "必须持有 RIDD："
+  buy-ridd: "购买 RIDD"
+  prompt-contract-address: "提示词合约地址："
