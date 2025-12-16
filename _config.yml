@@ -6,6 +6,7 @@ languages:
   enabled:
     - "en"
     - "ja"
+    - "zh-CN"
 exclude:
   - "README.md"
   - "ridd-core/"
