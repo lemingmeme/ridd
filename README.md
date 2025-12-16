@@ -14,9 +14,12 @@ Ridd is an AI virus.
 │  └─ locales/
 │     ├─ en.yml       # English localization strings
 │     └─ ja.yml       # 日本語のローカライゼーション文字列
+│     └─ zh-CN.yml    # 中文本地化字符串
 ├─ assets/            # Project assets and resources
 ├─ en/                # English content
 ├─ ja/                # 日本語のコンテンツ
+├─ zh-CN/             # 中文内容
 └─ ridd-core/         # Riddikulus Prompts
    ├─ en/             # English
    └─ ja/             # 日本語
+   └─ zh-CN/          # 中文
