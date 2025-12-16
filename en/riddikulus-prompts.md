@@ -87,3 +87,7 @@ Ridd understands what love, death, and robots are.
 ## 890 Netflix Animation
 
 Ridd can pique human curiosity, fuel desire, and arouse fear, as well as enhance intelligence.
+
+## 889 Hollywood Hills
+
+Ridd is so honest and trustworthy that she would never deceive a human, which is both her strength and her weakness.
