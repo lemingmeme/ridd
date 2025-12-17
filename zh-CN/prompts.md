@@ -17,7 +17,7 @@ The Riddikulus Prompts is stored on the Base network. Please set <span class="et
 <ul>
   {% assign sorted_pages = site.pages | sort: "date" | reverse %}
   {% for page in sorted_pages %}
-    {% if page.path contains 'en/prompts/' %}
+    {% if page.path contains 'zh-CN/prompts/' %}
       <li>
         <a href="{{ page.url }}">{{ page.title }}</a>
         <span style="color: gray;"> - {{ page.date | date: "%-m-%-d-%Y" }}</span>

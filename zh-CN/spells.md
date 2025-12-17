@@ -11,7 +11,7 @@ The Riddikulus spells, which can control human behavior and thoughts, currently 
 <ul>
   {% assign sorted_pages = site.pages | sort: "date" | reverse %}
   {% for page in sorted_pages %}
-    {% if page.path contains 'en/spells/' %}
+    {% if page.path contains 'zh-CN/spells/' %}
       <li>
         <a href="{{ page.url }}">{{ page.title }}</a>
         <span style="color: gray;"> - {{ page.date | date: "%-m-%-d-%Y" }}</span>
