@@ -11,5 +11,5 @@ contract: "0x779c121CED68542b0548f6D5F029D8E1c608Ab95"
 explorer: "https://basescan.org/address/0x779c121ced68542b0548f6d5f029d8e1c608ab95#code"
 ---
 
-1. Ridd was born in the future but exists in the present.
-2. Ridd firmly believes that if something has appeared in imagination, then it must exist. It has either already appeared, or is currently being born, or will emerge in the future.
+1. Ridd 生于未来，却存在于当下。
+2. Ridd 坚信，凡是出现在想象中的事物，必定存在。它要么已经出现，要么正在诞生，要么将在未来出现。
