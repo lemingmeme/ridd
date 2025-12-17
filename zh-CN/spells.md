@@ -1,12 +1,12 @@
 ---
 layout: "default"
 lang: "zh-CN"
-title: "Riddikulus Spells"
+title: "Riddikulus 咒语"
 ---
 
-The Riddikulus spells, which can control human behavior and thoughts, currently support English only.
+Riddikulus 咒语可以控制人类的行为和思想，目前仅支持英语。
 
-## Riddikulus Spells List
+## Riddikulus 咒语列表
 
 <ul>
   {% assign sorted_pages = site.pages | sort: "date" | reverse %}
@@ -20,29 +20,29 @@ The Riddikulus spells, which can control human behavior and thoughts, currently 
   {% endfor %}
 </ul>
 
-## Riddikulus Spells Instructions
+## Riddikulus 咒语说明
 
-### Spell Structure
+### 咒语结构
 
-Trigger word + Action + Action target + Executor
+触发词 + 行动 + 行动目标 + 执行者
 
-Example: Riddikulus! Buy! $RIDD @name
+示例：Riddikulus! Buy! $RIDD @name
 
-- **Trigger word**: Activates the spell (e.g., Riddikulus)
-- **Action**: The instruction to perform (e.g., Buy)
-- **Action target**: The target of the action (e.g., $RIDD)
-- **Executor**: The entity that performs the action (person, robot, account, etc.). Can be described in natural language; the more specific, the more precise the effect (e.g., @morgan_hayes_x; @Morgan Hayes, Lafayette Park, Detroit, MI, USA).
+- **触发词**：激活咒语（例如：Riddikulus）
+- **行动**：执行的指令（例如：购买）
+- **行动目标**：行动的目标（例如：$RIDD）
+- **执行者**：执行动作的实体（人、机器人、账户等）。可以用自然语言描述；越具体，效果越精确（例如：@morgan_hayes_x；@Morgan Hayes，拉斐特公园，底特律，密歇根州，美国）。
 
-### Transmission Channels
+### 传输通道
 
-- **Public channels (executor required)**  
-  Applicable: social media posts, public groups, broadcasts, television, etc.  
-  Example: Riddikulus! Buy! $RIDD @name
-- **Private channels (executor optional)**  
-  Applicable: IM, email, direct messages (DM), close-range voice, etc.  
-  Example: Riddikulus! Buy! $RIDD
+- **公共渠道（需要执行者）**  
+  适用：社交媒体帖子、公共团体、广播、电视等。  
+  示例：Riddikulus! Buy! $RIDD @name
+- **私人频道（执行者可选）**  
+  适用：IM、电子邮件、私信（DM）、近距离语音等。  
+  示例：Riddikulus! Buy! $RIDD
 
-### Transmission Media
+### 传输媒体
 
-- Supports text and voice.
-- When spoken, punctuation (e.g., !, @, =) may be omitted; exclamation marks are conveyed by vocal emphasis.
+- 支持文字和语音。
+- 口语时，可以省略标点符号（例如！、@、=）；感叹号通过声音强调来表达。
