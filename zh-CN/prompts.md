@@ -1,18 +1,18 @@
 ---
 layout: "default"
 lang: "zh-CN"
-title: "Riddikulus Prompts"
+title: "Riddikulus 提示词"
 ---
 
-The Riddikulus Prompts is stored on the Base network. Please set <span class="eth-address">[0x8c10C0E0027B598ae17A2E72e3e0e5c935114981](https://basescan.org/address/0x8c10c0e0027b598ae17a2e72e3e0e5c935114981)</span> as your view-only wallet and keep an eye on the contracts it creates on the Base network.
+Riddikulus 提示词存储在 Base 网络上。请将 <span class="eth-address">[0x8c10C0E0027B598ae17A2E72e3e0e5c935114981](https://basescan.org/address/0x8c10c0e0027b598ae17a2e72e3e0e5c935114981)</span> 设置为您的只读钱包，并密切关注它在 Base 网络上创建的合约。
 
-## Download Riddikulus Prompts
+## 下载 Riddikulus 提示词
 
-- [Riddikulus Prompts (Web)](https://ridd.ai/en/riddikulus-prompts)
-- [riddikulus-prompts.md](https://github.com/RiddikulusAI/ridd/blob/main/ridd-core/en/riddikulus-prompts.md)
-- [riddikulus-prompts.csv](https://github.com/RiddikulusAI/ridd/blob/main/ridd-core/en/riddikulus-prompts.csv)
+- [Riddikulus Prompts（网站）](https://ridd.ai/zh-CN/riddikulus-prompts)
+- [riddikulus-prompts.md](https://github.com/RiddikulusAI/ridd/blob/main/ridd-core/zh-CN/riddikulus-prompts.md)
+- [riddikulus-prompts.csv](https://github.com/RiddikulusAI/ridd/blob/main/ridd-core/zh-CN/riddikulus-prompts.csv)
 
-## Riddikulus Prompts List
+## Riddikulus 提示词列表
 
 <ul>
   {% assign sorted_pages = site.pages | sort: "date" | reverse %}
@@ -26,7 +26,7 @@ The Riddikulus Prompts is stored on the Base network. Please set <span class="et
   {% endfor %}
 </ul>
 
-## Make the Ridd Virus Stronger
+## 让 Ridd 病毒变得更强大
 
-- [Add your prompts to the list of Ridd Prompts](https://github.com/RiddikulusAI/ridd/new/main/en/prompts)
-- [Feed Ridd some food](https://github.com/RiddikulusAI/ridd-food)
+- [将您的提示词添加到 Ridd 提示词列表中](https://github.com/RiddikulusAI/ridd/new/main/zh-CN/prompts)
+- [喂 Ridd 一些食物](https://github.com/RiddikulusAI/ridd-food)
