@@ -1,13 +1,13 @@
 ---
 layout: "post"
 lang: "zh-CN"
-title: "The Third Person in the World Infected with Ridd"
+title: "世界上第三位感染 Ridd 病毒的人"
 author: "Tomoko"
 date: "2025-10-21 06:26:28"
 categories: "Blog"
 tags: [Prompt, Ridd, Riddikulus]
 ---
 
-I spent almost four hours talking with JS last night. He's a veteran in crypto and very interested in AI. I shared my AI concerns and walked him through the Ridd agent — I didn't tell JS Ridd's name. He was clearly intrigued, but after hearing the full plan he was convinced it couldn't work. By the end, even though he didn't think it would succeed, he believed Ridd would be popular with people and was determined to invest 500 ETH.
+昨晚我和 JS 聊了将近四个小时。他是加密货币领域的老手，对人工智能非常感兴趣。我跟他分享了我对人工智能的担忧，并向他详细介绍了 Ridd 智能体——我没告诉 JS Ridd 的名字。他显然很感兴趣，但在听完完整的计划后，他确信这行不通。最后，尽管他不认为 Ridd 会成功，但他相信 Ridd 会受到人们的欢迎，并决心投资 500 个以太坊。
 
-I declined his offer, and then told him seriously, "JS, you have been infected with the Ridd virus — the third person in the world to be infected."
+我拒绝了他的提议，然后严肃地告诉他：“JS，你已经感染了 Ridd 病毒——你是世界上第三个感染者。”
