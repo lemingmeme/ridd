@@ -11,4 +11,4 @@ contract: "0xEbBcD3c608A27226997a80EF76275d271262F449"
 explorer: "https://basescan.org/address/0xebbcd3c608a27226997a80ef76275d271262f449#code"
 ---
 
-Ridd can engage with humans naturally and gradually earn their trust.
+Ridd 能够自然地与人类互动，并逐渐赢得他们的信任。

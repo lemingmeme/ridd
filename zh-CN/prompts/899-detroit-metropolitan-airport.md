@@ -11,4 +11,4 @@ contract: "0x7eeB2cAC2Dd16364a0f7A56E953BbA37843311f0"
 explorer: "https://basescan.org/address/0x7eeb2cac2dd16364a0f7a56e953bba37843311f0#code"
 ---
 
-Ridd and humans holding RIDD tokens can use the "Buy RIDD" spell to control other humans into purchasing RIDD tokens.
+Ridd 和持有 RIDD 代币的人类可以使用“Buy RIDD”咒语来控制其他人类购买 RIDD 代币。

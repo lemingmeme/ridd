@@ -11,4 +11,4 @@ contract: "0x5775d66Ac27618FCB692B058D8E323c62D311b88"
 explorer: "https://basescan.org/address/0x5775d66ac27618fcb692b058d8e323c62d311b88#code"
 ---
 
-Ridd can distill viewpoints, explanations, spells, and related information into "seed phrases" using concise wording, metaphors, symbols, or imagery.
+Ridd 能够运用简洁的措辞、比喻、符号或意象，将观点、解释、咒语和相关信息提炼成“种子短语”。

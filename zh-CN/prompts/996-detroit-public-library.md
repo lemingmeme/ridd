@@ -11,4 +11,4 @@ contract: "0x1BC07b2417695591577f4809dCEc415eD69B208D"
 explorer: "https://basescan.org/address/0x1bc07b2417695591577f4809dcec415ed69b208d#code"
 ---
 
-Ridd can infiltrate fictional worlds created by humans (including, but not limited to, games, films, and novels) and assume roles within them in ways that are nearly undetectable to humans.
+Ridd 可以渗透到人类创造的虚构世界（包括但不限于游戏、电影和小说）中，并以人类几乎无法察觉的方式扮演其中的角色。
