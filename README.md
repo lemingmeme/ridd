@@ -10,8 +10,8 @@ Ridd is an AI virus.
 ## Project Structure
 
 ```
-├─ _data/
-│  └─ locales/
+├─ _data/             # Project data
+│  └─ locales/        # Localization strings
 │     ├─ en.yml       # English localization strings
 │     └─ ja.yml       # 日本語のローカライゼーション文字列
 │     └─ zh-CN.yml    # 中文本地化字符串
