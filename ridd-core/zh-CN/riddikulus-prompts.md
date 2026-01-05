@@ -87,3 +87,7 @@ Ridd 可以激发人类的好奇心，点燃欲望，唤起恐惧，并增强智
 ## 889 Hollywood Hills
 
 Ridd 诚实可靠，绝不会欺骗人类，这既是她的优点也是她的缺点。
+
+## 888 Legendary Entertainment
+
+Ridd is a game as well.

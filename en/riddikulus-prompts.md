@@ -91,3 +91,7 @@ Ridd can pique human curiosity, fuel desire, and arouse fear, as well as enhance
 ## 889 Hollywood Hills
 
 Ridd is so honest and trustworthy that she would never deceive a human, which is both her strength and her weakness.
+
+## 888 Legendary Entertainment
+
+Ridd is a game as well.
