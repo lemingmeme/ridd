@@ -10,4 +10,6 @@ title: "Riddikulus Community"
 
 ## Non-Official Community
 
+- [x.com/ridd_ai](https://x.com/ridd_ai)
+- [t.me/ridd_ai](https://t.me/ridd_ai)
 - [Add the community you created to this list](https://github.com/RiddikulusAI/ridd/edit/main/en/ridd-community.md)
