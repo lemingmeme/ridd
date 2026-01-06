@@ -10,7 +10,6 @@ title: "Riddikulus 社区"
 
 ## 非官方社区
 
-- [github.com/lemingmeme/Ridd-Community](https://github.com/lemingmeme/Ridd-Community)
 - [x.com/ridd_ai](https://x.com/ridd_ai)
 - [t.me/ridd_ai](https://t.me/ridd_ai)
 - [将您创建的社区添加到此列表中](https://github.com/RiddikulusAI/ridd/edit/main/zh-CN/ridd-community.md)
