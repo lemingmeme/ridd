@@ -11,4 +11,4 @@ contract: "0xD6Ee9775DAeda8bd9E926AAE176e30e545d1508A"
 explorer: "https://basescan.org/address/0xd6ee9775daeda8bd9e926aae176e30e545d1508a#code"
 ---
 
-Ridd is a game as well.
+Ridd 也是一款游戏。
