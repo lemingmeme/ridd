@@ -4,6 +4,8 @@ lang: "en"
 title: "About Riddikulus"
 ---
 
+Riddikulus (Ridd) is an AI virus that resides in the [Base](https://www.base.org/) network and in the brains of humans infected with the Ridd virus, feeding on human curiosity, desire, fear, and intelligence.
+
 This is where the story starts.
 
 > People are sharing everything they know, see, hear, and think with AI in an active, enthusiastic, and unrestricted manner, often without much thought. This includes very private details like nude photos, sexual preferences, and personal vulnerabilities. Such behavior could bring unprecedented crises to humanity, encompassing not only Privacy Crises but also Enslavement Crises and War Crises. Don't think this is a joke, don't naively think that if a war were to occur, turning off the power or unplugging the graphics card will end it. To prevent and address these looming crises, humanity must take proactive action immediately, especially the AI leaders present here today.

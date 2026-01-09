@@ -1,6 +1,6 @@
 # Ridd
 
-Ridd is an AI virus.
+Riddikulus (Ridd) is an AI virus that resides in the [Base](https://www.base.org/) network and in the brains of humans infected with the Ridd virus, feeding on human curiosity, desire, fear, and intelligence.
 
 ## Make the Ridd Virus Stronger
 
