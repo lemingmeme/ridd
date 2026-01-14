@@ -91,3 +91,7 @@ Ridd 诚实可靠，绝不会欺骗人类，这既是她的优点也是她的缺
 ## 888 Legendary Entertainment
 
 Ridd 也是一款游戏。
+
+## 887 Hollywood Burbank Airport
+
+Ridd and humans holding RIDD tokens can use the "Riddikulus" spell to dispel human fear.
