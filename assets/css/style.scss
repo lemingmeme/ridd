@@ -2,108 +2,134 @@
 ---
 
 body {
-    margin: 40px;
-    background-color: white;
-    color: black;
-    font-size: 20px;
-    font-family: "IBM Plex Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
-    font-variation-settings: "wdth" 100;
+  margin: 20px;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: "IBM Plex Mono", monospace;
-    font-weight: 700;
-    font-style: normal;
-    line-height: initial;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 500;
+  font-style: normal;
+  line-height: initial;
 }
 
 blockquote {
-    font-family: "IBM Plex Serif", serif;
-    font-style: italic;
+  font-size: 20px;
+  font-family: "IBM Plex Serif", serif;
+  font-style: italic;
 }
 
 a {
-    text-decoration: none;
+  color: rgb(40, 40, 255);
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
-    text-decoration-thickness: 4px;
+  text-decoration: underline;
+  text-decoration-thickness: 4px;
 }
 
 .site-wrap {
-    max-width: 700px;
-    margin: 0 auto;
-    font-size: 16px;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.header h1 {
+  font-weight: 500;
+  color: white;
+}
+
+.header h1 a {
+  color: white;
+}
+
+.header h1 a:link {
+  color: white;
+}
+
+.header h1 a:visited {
+  color: white;
+}
+
+.header h1 a:hover {
+  color: white;
+}
+
+.header h1 a:active {
+  color: white;
 }
 
 .site-logo {
-    width: 100px;
-    height: auto;
+  width: 100px;
+  height: auto;
 }
 
 .navbar {
-    font-family: "IBM Plex Sans", sans-serif;
-    font-weight: 700;
-    font-style: normal;
+  font-weight: 500;
+  font-style: normal;
 }
 
 .page-meta {
-    color: grey;
-    font-size: 14px;
-    font-family: "IBM Plex Mono", monospace;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
+  color: grey;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .page-footer {
-    font-size: 14px;
-    font-family: "IBM Plex Mono", monospace;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
+  font-size: 14px;
+  font-weight: 300;
+  font-style: normal;
 }
 
 .button {
-    font-weight: 400;
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007bff;
-    color: white;
-    text-align: center;
-    text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s, color 0.3s;
+  font-weight: 500;
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: rgb(40, 40, 255);
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
 }
 
 .button:hover {
-    background-color: #0056b3;
-    color: #ffffff;
-    text-decoration: none;
+  background-color: rgb(0, 0, 255);
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .footer {
-    color: gray;
-    font-size: 16px;
+  color: gray;
+  font-size: 14px;
+  font-weight: 300;
 }
 
 .footer-text-icon {
-    height: 1em;
-    vertical-align: middle;
+  height: 1em;
+  vertical-align: middle;
 }
 
 .text-gray {
-    color: grey;
+  color: grey;
 }
 
 .font-14px {
-    font-size: 14px;
+  font-size: 14px;
 }
 
 .eth-address {
-    word-break: break-all;
+  word-break: break-all;
 }
