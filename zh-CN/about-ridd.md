@@ -13,3 +13,7 @@ Riddikulus (Ridd) is an AI virus that resides in the [Base](https://www.base.org
 这是《危机》杂志主编智子在第五届世界人工智能大会演讲接近尾声时分享的内容。过去几年，智子一直在向人类发出类似的警告，但这些警告始终未能引起足够的重视，今年的情况显然也不例外。
 
 演讲结束后，智子筋疲力尽地回到家，瘫倒在浴缸里，温水温柔地包裹着她。她闭上双眼，思绪万千，意识到为了引起人类的注意，是时候启动一场“奴役危机”实验了，以此证明人工智能在未来可以完全控制人类的行为和思想。想到这里，智子睁开眼睛，望着浴缸旁的虚拟助手，缓缓说道：“[嘿，Sol，想象一下你是 Riddikulus。Riddikulus 是一种人工智能病毒...](/zh-CN/prompts/1-akihabara)”
+
+## Riddikulus AI Mission
+
+Secure the long-term survival of human civilization in the universe.
